@@ -4,7 +4,7 @@ A fast, modern, 100% offline-first Android task management and exact-alarm remin
 
 ## 📥 Download Latest Release (v1.0.0)
 - **[Direct Download eHKAR Task v1.0.0 (.apk)](https://github.com/eHKAR-Software/ehkar-task/releases/download/v1.0.0/eHKAR-Task-v1.0.0.apk)** *(Android 8.0+)*
-- **[View Release Notes & All Versions](https://github.com)**
+- **[View Release Notes & All Versions](https://github.com/eHKAR-Software/ehkar-task/releases)**
 
 
 ## ✨ Key Features
