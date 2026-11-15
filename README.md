@@ -3,7 +3,7 @@
 A fast, modern, 100% offline-first Android task management and exact-alarm reminder application built with **Kotlin** and **Jetpack Compose** by [eHKAR Software](https://ehkar.com).
 
 ## 📥 Download Latest Release (v1.0.0)
-- **[Direct Download eHKAR Task v1.0.0 (.apk)](https://github.com/eHKAR-Software/ehkar-task/releases/download/v1.0.0/eHKAR-Task-v1.0.0.apk)** *(Android 8.0+)*
+- **[Direct Download eHKAR Task v1.0.1 (.apk)](https://github.com/eHKAR-Software/ehkar-task/releases/download/v1.0.1/eHKAR-Task-v1.0.1.apk)** *(Android 8.0+)*
 - **[View Release Notes & All Versions](https://github.com/eHKAR-Software/ehkar-task/releases)**
 
 
